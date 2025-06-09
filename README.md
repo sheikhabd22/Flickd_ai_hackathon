@@ -47,12 +47,10 @@ pip install -r requirements.txt
 
 ```
 flickd_ai_engine/
-├── api/                 # API-related code
 ├── data/               # Data files including products.csv
-├── embeddings/         # Stored embeddings
 ├── frames/            # Temporary frame storage
 ├── images/            # Product images
-├── models/            # Downloaded ML models
+├── models/            # Downloaded ML models and stores the embeddings 
 ├── outputs/           # Processing outputs
 ├── utils/             # Utility modules
 ├── main.py            # Main application code
