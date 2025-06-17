@@ -1,4 +1,4 @@
-# Flickd AI Engine
+# Vibe Classification Engine
 
 A powerful AI-powered video processing engine that analyzes fashion videos to detect clothing items, match them with products, and classify the overall aesthetic vibe.
 
